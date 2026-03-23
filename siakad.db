@@ -1,0 +1,69 @@
+Deskripsi Project
+Project ini merupakan implementasi Sistem Informasi Akademik (SIAKAD) sederhana berbasis Python yang dikembangkan secara bertahap dari pertemuan 1 hingga pertemuan 4.
+
+Project ini mencakup konsep:
+CRUD (Create, Read, Update, Delete)
+CLI (Command Line Interface)
+GUI (Graphical User Interface)
+Database (SQLite)
+UI Modern (CustomTkinter)
+
+Perkembangan Project
+Pertemuan 1 — CRUD Dasar (CLI)
+
+Fitur:
+Input data mahasiswa
+Tampilkan data
+Ubah data (NBI)
+Hapus data
+Pencarian sederhana
+
+Teknologi:
+Python (Basic)
+List & Dictionary
+
+File:
+Pertemuan 1.py
+Pertemuan 2 — CRUD Advanced (CLI)
+Upgrade dari pertemuan 1:
+Validasi NBI unik
+Tampilan tabel lebih rapi
+Pencarian fleksibel (partial search)
+Update semua data (nama, NBI, kelas)
+Konfirmasi saat hapus data
+
+Teknologi:
+Python (Improved Logic & Validation)
+
+File:
+Pertemuan 2.py
+Pertemuan 3 — GUI Sederhana (Tkinter)
+Perubahan besar:
+Dari CLI → GUI
+Input menggunakan form
+Data ditampilkan dalam tabel (Treeview)
+
+Klik data untuk edit
+Notifikasi menggunakan messagebox
+
+Teknologi:
+Tkinter
+ttk (Treeview)
+
+File:
+Pertemuan 3.py
+Pertemuan 4 — GUI Modern + Database
+Level aplikasi nyata:
+UI modern (Dark Mode)
+Database SQLite (data permanen)
+Dashboard jumlah mahasiswa
+Search realtime
+UX lebih interaktif
+
+Teknologi:
+CustomTkinter
+SQLite
+ttk Treeview
+
+File:
+Pertemuan 4.py
